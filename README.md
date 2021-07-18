@@ -14,4 +14,5 @@ Files Included : bikeshare.py, chicago.csv, new_york_city.csv, washington.csv
 ### Credits
 Credit to udacity : CSV data, bikeshare.py template,
 Repository forked from https://github.com/udacity/pdsnd_github
- 
+
+### END of project - added for Git project
